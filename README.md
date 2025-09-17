@@ -46,7 +46,7 @@ endmodule
 ```
 #### SIMULATION OUTPUT
 
-
+------- paste the output here -------
 ---
 
 ### JK Flip-Flop (Blocking)
@@ -69,7 +69,7 @@ endmodule
 ```
 #### SIMULATION OUTPUT
 
-
+------- paste the output here -------
 ---
 ### D Flip-Flop (Blocking)
 ```verilog
@@ -92,7 +92,7 @@ endmodule
 
 #### SIMULATION OUTPUT
 
-
+------- paste the output here -------
 ---
 ### T Flip-Flop (Blocking)
 ```verilog
@@ -115,6 +115,7 @@ endmodule
 
 #### SIMULATION OUTPUT
 
+------- paste the output here -------
 
 ---
 
