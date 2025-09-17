@@ -112,7 +112,6 @@ endmodule
 
 
 ```
----
 
 #### SIMULATION OUTPUT
 
