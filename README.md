@@ -114,7 +114,7 @@ endmodule
 ```
 ---
 
-## SIMULATION OUTPUT
+# SIMULATION OUTPUT
 
 
 ---
