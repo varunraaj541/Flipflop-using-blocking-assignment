@@ -67,7 +67,7 @@ endmodule
 
 
 ```
-## SIMULATION OUTPUT
+#### SIMULATION OUTPUT
 
 
 ---
@@ -90,7 +90,7 @@ endmodule
 
 ```
 
-## SIMULATION OUTPUT
+#### SIMULATION OUTPUT
 
 
 ---
@@ -114,7 +114,7 @@ endmodule
 ```
 ---
 
-# SIMULATION OUTPUT
+#### SIMULATION OUTPUT
 
 
 ---
